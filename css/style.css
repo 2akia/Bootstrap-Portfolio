@@ -3,6 +3,8 @@
 h1, h2, h6, h8 {
 font-family: 'Anton' , sans-serif;
 color: teal;
+font-size: 35px;
+position:relative;
 }
 
 p {
@@ -13,14 +15,15 @@ p {
 .customNav {
     position: fixed;
     width: 100%;
-    background-color: transparent !important;
+    background-color:#1e9ca775 !important;
     background-size: cover;
     z-index: 10;
 }
 
 .customNav a {
-    color: teal;
+    color: rgb(252, 252, 252);
     font-size: 25px;
+    transition: color 0.3s ease;
 }
 
 .navbar-nav {
@@ -31,6 +34,53 @@ p {
 .nav-item {
     margin: 0px 15px;
 }
+
+a:hover {
+    background-color: antiquewhite;
+    opacity: 40%;
+}
+
+#about, #work, #skills, #contact {
+    scroll-margin-top: 40px;
+}
+
+.navBar a[href^="#"] {
+    scroll-behavior: smooth;
+}
+
+.headerBanner {
+    background-image: url(../images/header\ banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(90vh - -39px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.jumboCopy {
+    width: 72%;
+    min-width: 500px;
+    max-width: 700px;
+    color: rgb(63, 60, 60);
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
