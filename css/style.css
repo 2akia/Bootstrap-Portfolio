@@ -1,4 +1,36 @@
 /* css created */
 
+h1, h2, h6, h8 {
+font-family: 'Anton' , sans-serif;
+color: teal;
+}
+
+p {
+    font-family: 'Jura', sans-serif; 
+}
+
+/* Navigation bar */
+.customNav {
+    position: fixed;
+    width: 100%;
+    background-color: transparent !important;
+    background-size: cover;
+    z-index: 10;
+}
+
+.customNav a {
+    color: teal;
+    font-size: 25px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+}
+
+.nav-item {
+    margin: 0px 15px;
+}
+
 
 
