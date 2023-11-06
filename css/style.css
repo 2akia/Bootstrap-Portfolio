@@ -40,6 +40,7 @@ a:hover {
     opacity: 40%;
     text-decoration: shadow;
     border-radius: 8px;
+    box-shadow: 0, 0, 0, 0.2
 }
 
 #about, #work, #skills, #contact {
