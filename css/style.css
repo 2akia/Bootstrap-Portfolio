@@ -36,9 +36,10 @@ p {
 }
 
 a:hover {
-    background-color: antiquewhite;
+    background-color: #fff3cdbf;
     opacity: 40%;
-    text-shadow: 5%;
+    text-decoration: shadow;
+    border-radius: 8px;
 }
 
 #about, #work, #skills, #contact {
@@ -123,6 +124,11 @@ text-align: center;
 text-align: right;
 font-size: 19px;
 color: teal;
+margin:65px
+}
+
+.btn:hover {
+    box-shadow: 0, 0, 0, 0.2;
 }
 
 
@@ -136,9 +142,7 @@ color: teal;
 
 
 
-
-
-
+/* Media query for phone screens */
 @media screen and (max-width: 600px) { 
     section {
         flex-direction: column;
