@@ -70,6 +70,12 @@ a:hover {
     text-align: center;
 }
 
+.avatar {
+width: 150px;
+height: 150px;
+border-radius: 50%;
+}
+
 .sectionHeading {
     width: 15%;
     border-right: 5px solid rgb(92, 88, 88);
@@ -171,6 +177,9 @@ margin:65px
         justify-content: center;
     
     }
+
+
+
 }
 
 
