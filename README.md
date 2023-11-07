@@ -76,11 +76,11 @@ The tools that have been added in this project:
 
 > [!URL]
 
-- [Deployed application]()
+- [Deployed application](https://2akia.github.io/Bootstrap-Portfolio/)
 
-- [GitHub repository]()
+- [GitHub repository](https://github.com/2akia/Bootstrap-Portfolio)
 
-- [Previously deployed portfolio]()
+- [Previously deployed portfolio](https://2akia.github.io/Jakias-Portfolio-CV/)
 
 Thank you for having a look.
 
