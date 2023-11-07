@@ -31,12 +31,13 @@ This website has extra elements, which are the bootstrap components.
 3. Install the required software components
 4. Start the application
 
-![Example Screenshot 1]
+![Example Screenshot 1](./images/Screenshot%201.png)
 
-![Example Screenshot 2]
+![Example Screenshot 2](./images/Screenshot%202..png)
 
-![Example Screenshot 3]
+![Example Screenshot 3](./images/Screenshot%203.png)
 
+![Example Screenshot 4](./images/Screenshot%204.png)
 
 # Resources 
 
@@ -70,8 +71,8 @@ The tools that have been added in this project:
 - Recreated my portfolio site with Navigation bar, navigation menu with links.
 - Jumbotron added in the portfolio.
 - Bootstrap Cards used.
-- skills section added.
-- hyperlinks hover/box shadow upon hover added.
+- Skills section added.
+- Hyperlinks hover/box shadow upon hover added.
 
 > [!URL]
 
